@@ -27,6 +27,6 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
       
-    - name: step4 - Inspect files 
-      run: ls -a
+    - name: Run test
+      run: mvn test
     
