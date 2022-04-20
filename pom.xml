@@ -11,8 +11,7 @@
 	<artifactId>exercicio1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>exercicio1</name>
-	<description>Módulo 2 - Exercício 1</description>	
-
+	<description>Módulo 2 - Exercício 1</description>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
