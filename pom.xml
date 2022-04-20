@@ -11,7 +11,10 @@
 	<artifactId>exercicio1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>exercicio1</name>
-	<description>Módulo 2 - Exercício 1</description>
+	<description>Módulo 2 - Exercício 1</description>	
+	<properties>
+		<java.version>11</java.version>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
