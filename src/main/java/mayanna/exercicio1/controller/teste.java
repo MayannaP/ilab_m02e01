@@ -8,6 +8,7 @@ public class teste {
 	
 	@GetMapping("/hello")
 	public String sayHello() { 
+		System.out.print("\n \n Aplicacao ta on, bb \n \n ");
 		return "Hello World";
 	}
 

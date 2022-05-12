@@ -8,6 +8,7 @@ public class Exercicio1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Exercicio1Application.class, args);
+		System.out.print("\n \n Aplicacao ta on, bb \n \n ");
 	}
 
 }
